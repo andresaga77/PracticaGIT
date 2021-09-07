@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 esta es una nueva historia
-para el dia
-=======
-Prueba 1
-prueba 1
-gdhgshslhkjlkhjfjhjfdghjsdflgjojtoijewrgñlargm
->>>>>>> 1616bedba10240020b87dda9286475abf1a810d7
-esta es la prueba 4
+esta es una nueva historia22
+probando 3
+probando 4
